@@ -1,7 +1,6 @@
 # Welcome to Cooper Myers' Python Programming Practice, Spring 2022
 
-### Overview
-Python Programming Objectives include:
+### Python Programming Objectives include:
 
 * Program Flow Control
 * Lists and Tuples
@@ -21,7 +20,7 @@ Python Programming Objectives include:
 * [Udemy](https://www.udemy.com)
 
 ### Schedule
-I plan on completing three programs per day in order to grow my Python Programming Portfolio.
+I plan on consistently completing three programs per day.
 
 | Week | Date          | Topics | Activities | TODOs |
 | ---- | ------------- | ------ | ---------- | --------- |
