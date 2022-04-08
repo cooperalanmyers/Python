@@ -22,7 +22,7 @@
 ### Schedule
 I plan on consistently completing three programs per day.
 
-| Week | Date          | Topics | Activities | TODOs |
-| ---- | ------------- | ------ | ---------- | --------- |
-|  01  | 04/08 - 04/15 | 
-|  02  | 04/15 - 04/22 | 
+| Week | Date          | Topics |
+| ---- | ------------- | Flow Control |
+|  01  | 04/08 - 04/15 | ------ |
+|  02  | 04/15 - 04/22 | ------ |
