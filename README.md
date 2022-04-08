@@ -24,5 +24,5 @@ I plan on consistently completing three programs per day.
 
 | Week | Date          | Topics |
 | ---- | ------------- | Flow Control |
-|  01  | 04/08 - 04/15 | ------ |
-|  02  | 04/15 - 04/22 | ------ |
+|  01  | 04/08 - 04/15 |  |
+|  02  | 04/15 - 04/22 |  |
