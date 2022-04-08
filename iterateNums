@@ -1,0 +1,7 @@
+# Cooper Myers
+# 4/8/22
+# Printing Numbers 0-88 on New Line
+ 
+# Use a for loop to iterate through each number
+for num in range(0, 88):
+        print ("Number is now: {}".format(num))
