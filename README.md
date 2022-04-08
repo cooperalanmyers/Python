@@ -1,4 +1,4 @@
-# Welcome to Cooper Myers' Python Programming Practice, Spring 2022
+# Welcome to Cooper's Python Programming, Spring 2022
 
 ### Python Programming Objectives include:
 
