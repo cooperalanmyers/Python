@@ -14,12 +14,12 @@
 * Big O Notation
 * Final Projects
 
-### Helpful Links
+### Helpful Links:
 
 * [LinkedIn](https://www.linkedin.com/in/coopermyers/)
 * [Udemy](https://www.udemy.com)
 
-### Schedule
+### Schedule:
 I plan on consistently completing three programs per day.
 
 | Week | Date          | Topics |
